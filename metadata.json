@@ -1,0 +1,6 @@
+{
+  "name": "SolVision Geo-Agri",
+  "description": "المنصة الرقمية الفلاحية الجغرافية المستقلة للجزائر - الاستشعار الفضائي عبر Sentinel-2، كشف التضارب والمزارع الوهمية، والذكاء الاصطناعي التوجيهي للأمن الغذائي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
